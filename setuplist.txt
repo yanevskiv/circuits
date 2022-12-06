@@ -1,41 +1,80 @@
 ### setuplist.txt first line must be a comment
 +Ispit 10 Sep 2022
-10-Sep-2022_p5.txt Pitalica 5
-10-Sep-2022_p6.txt Pitalica 6
-10-Sep-2022_p7.txt Pitalica 7
-10-Sep-2022_p8.txt Pitalica 8
-10-Sep-2022_z2.txt Zadatak 2
-10-Sep-2022_z3.txt Zadatak 3
+10-Sep-2022-p5.txt Pitalica 5
+10-Sep-2022-p6.txt Pitalica 6
+10-Sep-2022-p7.txt Pitalica 7
+10-Sep-2022-p8.txt Pitalica 8
+10-Sep-2022-z2.txt Zadatak 2
+10-Sep-2022-z3.txt Zadatak 3
 -
 +Ispit 20 Aug 2022
-20-Aug-2022_p5.txt Pitalica 5
-20-Aug-2022_p6.txt Pitalica 6
-20-Aug-2022_p7.txt Pitalica 7
-20-Aug-2022_p8.txt Pitalica 8
-20-Aug-2022_z2.txt Zadatak 2
-20-Aug-2022_z3.txt Zadatak 3
+20-Aug-2022-p5.txt Pitalica 5
+20-Aug-2022-p6.txt Pitalica 6
+20-Aug-2022-p7.txt Pitalica 7
+20-Aug-2022-p8.txt Pitalica 8
+20-Aug-2022-z2.txt Zadatak 2
+20-Aug-2022-z3.txt Zadatak 3
 -
 +Ispit 2 Jul 2022
-2-Jul-2022_p6.txt Pitalica 6
-2-Jul-2022_p7.txt Pitalica 7
-2-Jul-2022_p8.txt Pitalica 8
-2-Jul-2022_z2.txt Zadatak 2
-2-Jul-2022_z3.txt Zadatak 3
+2-Jul-2022-p6.txt Pitalica 6
+2-Jul-2022-p7.txt Pitalica 7
+2-Jul-2022-p8.txt Pitalica 8
+2-Jul-2022-z2.txt Zadatak 2
+2-Jul-2022-z3.txt Zadatak 3
 -
 +Ispit 20 Feb 2022
-20-Feb-2022_p5.txt Pitalica 5
-20-Feb-2022_p6.txt Pitalica 6
-20-Feb-2022_p7.txt Pitalica 7
-20-Feb-2022_p8.txt Pitalica 8
-20-Feb-2022_z2.txt Zadatak 2
-20-Feb-2022_z3.txt Zadatak 3
+20-Feb-2022-p5.txt Pitalica 5
+20-Feb-2022-p6.txt Pitalica 6
+20-Feb-2022-p7.txt Pitalica 7
+20-Feb-2022-p8.txt Pitalica 8
+20-Feb-2022-z2.txt Zadatak 2
+20-Feb-2022-z3.txt Zadatak 3
 -
 +Ispit 30 Jan 2022
-30-Jan-2022_p5.txt Pitalica 5
-30-Jan-2022_p6.txt Pitalica 6
-30-Jan-2022_p7.txt Pitalica 7
-30-Jan-2022_p8.txt Pitalica 8
-30-Jan-2022_z2.txt Zadatak 2
-30-Jan-2022_z3.txt Zadatak 3
+30-Jan-2022-p5.txt Pitalica 5
+30-Jan-2022-p6.txt Pitalica 6
+30-Jan-2022-p7.txt Pitalica 7
+30-Jan-2022-p8.txt Pitalica 8
+30-Jan-2022-z2.txt Zadatak 2
+30-Jan-2022-z3.txt Zadatak 3
+-
++Ispit 28 Sep 2021
+28-Sep-2021-p5.txt Pitalica 5
+28-Sep-2021-p6.txt Pitalica 6
+28-Sep-2021-p7.txt Pitalica 7
+28-Sep-2021-p8.txt Pitalica 8
+28-Sep-2021-z2.txt Zadatak 2
+28-Sep-2021-z3.txt Zadatak 3
+-
++Ispit 18 Sep 2021
+18-Sep-2021-p5.txt Pitalica 5
+18-Sep-2021-p6.txt Pitalica 6
+18-Sep-2021-p7.txt Pitalica 7
+18-Sep-2021-p8.txt Pitalica 8
+18-Sep-2021-z2.txt Zadatak 2
+18-Sep-2021-z3.txt Zadatak 3
+-
++Ispit 28 Aug 2022
+28-Aug-2021-p5.txt Pitalica 5
+28-Aug-2021-p6.txt Pitalica 6
+28-Aug-2021-p7.txt Pitalica 7
+28-Aug-2021-p8.txt Pitalica 8
+28-Aug-2021-z2.txt Zadatak 2
+28-Aug-2021-z3.txt Zadatak 3
+-
++Ispit 3 Jul 2021
+3-Jul-2021-p6.txt Pitalica 6
+3-Jul-2021-p7.txt Pitalica 7
+3-Jul-2021-p8.txt Pitalica 8
+3-Jul-2021-z2.txt Zadatak 2
+3-Jul-2021-z3.txt Zadatak 3
+-
++Ispit 31 Jan 2021
+31-Jan-2021-p5.txt Pitalica 5
+31-Jan-2021-p6.txt Pitalica 6
+31-Jan-2021-p7.txt Pitalica 7
+31-Jan-2021-p8.txt Pitalica 8
+31-Jan-2021-z2.txt Zadatak 2
+31-Jan-2021-z3.txt Zadatak 3
 -
 >blank.txt Blank Circuit
