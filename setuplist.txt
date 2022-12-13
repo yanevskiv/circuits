@@ -77,4 +77,18 @@
 31-Jan-2021-z2.txt Zadatak 2
 31-Jan-2021-z3.txt Zadatak 3
 -
++Ispit 23 Sep 2020
+23-Sep-2020-p4.txt Pitalica 4
+23-Sep-2020-p5.txt Pitalica 5
+23-Sep-2020-p6.txt Pitalica 6
+23-Sep-2020-z1.txt Zadatak 1
+23-Sep-2020-z2.txt Zadatak 2
+-
++Ispit 11 Sep 2020
+11-Sep-2020-p4.txt Pitalica 4
+11-Sep-2020-p5.txt Pitalica 5
+11-Sep-2020-p6.txt Pitalica 6
+11-Sep-2020-z1.txt Zadatak 1
+11-Sep-2020-z2.txt Zadatak 2
+-
 >blank.txt Blank Circuit
